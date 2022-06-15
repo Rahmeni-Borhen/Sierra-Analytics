@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 });
 const MONGODB_URL = "mongodb+srv://borhen:BaFcqt28YEveD5OR@cluster0.hsetd.mongodb.net/tour_db?retryWrites=true&w=majority"
 
-const port = 5000;
+const port = process.env.port || 5000;
 
 mongoose
   .connect(MONGODB_URL)
