@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sierra-Analytics/static/css/main.804b1cdd.css",
+    "main.js": "/Sierra-Analytics/static/js/main.2c35b851.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Sierra-Analytics/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/video2.mp4": "/Sierra-Analytics/static/media/video2.36d745071ddc44123b1e.mp4",
+    "static/media/img1.png": "/Sierra-Analytics/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/Sierra-Analytics/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/Sierra-Analytics/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/Sierra-Analytics/index.html",
+    "main.804b1cdd.css.map": "/Sierra-Analytics/static/css/main.804b1cdd.css.map",
+    "main.2c35b851.js.map": "/Sierra-Analytics/static/js/main.2c35b851.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Sierra-Analytics/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804b1cdd.css",
+    "static/js/main.2c35b851.js"
+  ]
+}
